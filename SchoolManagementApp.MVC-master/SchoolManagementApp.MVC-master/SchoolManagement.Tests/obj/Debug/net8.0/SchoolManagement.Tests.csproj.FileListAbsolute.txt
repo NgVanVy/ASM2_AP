@@ -1,0 +1,7 @@
+D:\ASM_C#\ASM2_AP\SchoolManagementApp.MVC-master\SchoolManagementApp.MVC-master\SchoolManagement.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_SchoolManagement.Tests
+D:\ASM_C#\ASM2_AP\SchoolManagementApp.MVC-master\SchoolManagementApp.MVC-master\SchoolManagement.Tests\obj\Debug\net8.0\SchoolManagement.Tests.csproj.AssemblyReference.cache
+D:\ASM_C#\ASM2_AP\SchoolManagementApp.MVC-master\SchoolManagementApp.MVC-master\SchoolManagement.Tests\obj\Debug\net8.0\SchoolManagement.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASM_C#\ASM2_AP\SchoolManagementApp.MVC-master\SchoolManagementApp.MVC-master\SchoolManagement.Tests\obj\Debug\net8.0\SchoolManagement.Tests.AssemblyInfoInputs.cache
+D:\ASM_C#\ASM2_AP\SchoolManagementApp.MVC-master\SchoolManagementApp.MVC-master\SchoolManagement.Tests\obj\Debug\net8.0\SchoolManagement.Tests.AssemblyInfo.cs
+D:\ASM_C#\ASM2_AP\SchoolManagementApp.MVC-master\SchoolManagementApp.MVC-master\SchoolManagement.Tests\obj\Debug\net8.0\SchoolManagement.Tests.csproj.CoreCompileInputs.cache
+D:\ASM_C#\ASM2_AP\SchoolManagementApp.MVC-master\SchoolManagementApp.MVC-master\SchoolManagement.Tests\obj\Debug\net8.0\SchoolManagement.Tests.sourcelink.json
