@@ -5,14 +5,11 @@
     bool isUserAdmin = ViewBag.IsUserAdmin;
 }
 
-@if (isUserAdmin)
-{
 <h1>Class</h1>
 
     <p>
         <a asp-action="Create" class="btn btn-success">Create New</a>
     </p>
-}
 
 <table class="table">
     <!-- Table headers skipped for brevity -->

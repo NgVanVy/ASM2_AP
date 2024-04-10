@@ -53,14 +53,11 @@
 }
     </tbody>
 </table>
-
-@if (isUserAdmin)
-{
-    
+  
 <form asp-action="Delete" id="studentDeleteForm">
     <input type="hidden" id="studentid" name="Id"/>
 </form>
-}
+
 
 @section Scripts{
     <script>
