@@ -174,6 +174,12 @@ namespace SchoolManagementApp.MVC.Controllers
 
         public async Task<ActionResult> ManageEnrollments(int classId)
         {
+            // Check if the user has a nickname of "admin"
+            var isUserAdmin = User.Claims.Any(c => c.Type == "nickname" && c.Value == "admin");
+
+            // Store this information in a ViewBag to use in the View
+            ViewBag.IsUserAdmin = isUserAdmin;
+
             var @class = await _context.Classes
                 .Include(q => q.Course)
                 .Include(q => q.Lecturer)

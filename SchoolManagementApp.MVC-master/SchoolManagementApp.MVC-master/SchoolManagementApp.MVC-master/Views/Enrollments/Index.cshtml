@@ -40,15 +40,17 @@
             <td>
                 @Html.DisplayFor(modelItem => item.Student.Id)
             </td>
-                @if (isUserAdmin)
-                {
+                
             <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    @if (isUserAdmin)
+                    {
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> 
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> 
                 <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    }
             </td>
                     
-                }
+                
         </tr>
 }
     </tbody>
